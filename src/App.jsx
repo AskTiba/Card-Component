@@ -10,7 +10,7 @@ const App = () => {
           <img src={sedan} alt="" className="" />
           <h1 className="my-10 text-[24px] font-[700]">SEDANS</h1>
           <p className="mb-20">
-            Sedans Choose a sedan for its <br /> affordability and excellent
+            Choose a sedan for its <br /> affordability and excellent
             <br /> fuel economy. Ideal for <br /> cruising in the city or on
             <br /> your next road trip.
           </p>
