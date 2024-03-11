@@ -5,7 +5,7 @@ import luxury from "./assets/images/icon-luxury.svg";
 const App = () => {
   return (
     <article className="">
-      <main className="flex justify-center mt-24 phone">
+      <main className="flex justify-center my-24 phone">
         <section className="flex-col p-10 rounded-l-lg radius bg-bright-orange ">
           <img src={sedan} alt="" className="" />
           <h1 className="my-10 text-[24px] font-[700]">SEDANS</h1>
