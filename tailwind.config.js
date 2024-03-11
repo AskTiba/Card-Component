@@ -10,6 +10,17 @@ export default {
       "transparent-white": "hsla(0, 0%, 100%, 0.75)",
       "light gray": "hsl(0, 0%, 95%)",
     },
+    screens: {
+      'phone': '375px',
+      'tablet': '640px',
+      // => @media (min-width: 640px) { ... }
+
+      'laptop': '1024px',
+      // => @media (min-width: 1024px) { ... }
+
+      'desktop': '1280px',
+      // => @media (min-width: 1280px) { ... }
+    },
   },
   plugins: [],
 };
